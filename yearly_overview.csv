@@ -1,0 +1,37 @@
+Month,Year,Renewed_ARR,Churned_ARR,DataStatus
+01-January,2024,38922.0,115600.0,Actual
+01-January,2023,37940.0,107050.0,Actual
+01-January,2022,18624.0,26850.0,Actual
+02-February,2024,28966.0,106900.0,Actual
+02-February,2023,24400.0,69400.0,Actual
+02-February,2022,15656.0,14900.0,Actual
+03-March,2024,18278.0,89900.0,Actual
+03-March,2023,37980.0,94100.0,Actual
+03-March,2022,36314.0,22350.0,Actual
+04-April,2024,14996.0,93800.0,Actual
+04-April,2023,17450.0,146100.0,Actual
+04-April,2022,6449.0,7500.0,Actual
+05-May,2024,,,Not Available
+05-May,2023,22100.0,79050.0,Actual
+05-May,2022,2700.0,5850.0,Actual
+06-June,2024,,,Not Available
+06-June,2023,44190.0,88500.0,Actual
+06-June,2022,4450.0,3000.0,Actual
+07-July,2024,,,Not Available
+07-July,2023,27150.0,67200.0,Actual
+07-July,2022,2700.0,3000.0,Actual
+08-August,2024,,,Not Available
+08-August,2023,20650.0,127500.0,Actual
+08-August,2022,2700.0,6525.0,Actual
+09-September,2024,,,Not Available
+09-September,2023,30950.0,89900.0,Actual
+09-September,2022,4400.0,8700.0,Actual
+10-October,2024,,,Not Available
+10-October,2023,14625.0,106800.0,Actual
+10-October,2022,24199.0,58250.0,Actual
+11-November,2024,,,Not Available
+11-November,2023,10600.0,95400.0,Actual
+11-November,2022,52025.0,63250.0,Actual
+12-December,2024,,,Not Available
+12-December,2023,12180.0,35900.0,Actual
+12-December,2022,22620.0,51030.0,Actual
